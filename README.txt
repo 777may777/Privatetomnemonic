@@ -1,4 +1,4 @@
-Claro, te proporcionaré una explicación del software y sus modos de ejecución, junto con ejemplos claros de cómo ejecutarlo.
+
 
 ### Descripción del Software
 
