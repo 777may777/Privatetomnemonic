@@ -1,4 +1,4 @@
-# Privatetomnemonic
+# Privatetomnemonic ESPAÑOL
 With this software you can transfer your private keys to mnemonics
 ### Descripción del Software
 
